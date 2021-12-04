@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/integradoraLions/static/css/main.a617e044.chunk.css",
+    "main.js": "/integradoraLions/static/js/main.e2bd59f1.chunk.js",
+    "main.js.map": "/integradoraLions/static/js/main.e2bd59f1.chunk.js.map",
+    "runtime-main.js": "/integradoraLions/static/js/runtime-main.cd36f56c.js",
+    "runtime-main.js.map": "/integradoraLions/static/js/runtime-main.cd36f56c.js.map",
+    "static/css/2.0a9ec390.chunk.css": "/integradoraLions/static/css/2.0a9ec390.chunk.css",
+    "static/js/2.3349eeda.chunk.js": "/integradoraLions/static/js/2.3349eeda.chunk.js",
+    "static/js/2.3349eeda.chunk.js.map": "/integradoraLions/static/js/2.3349eeda.chunk.js.map",
+    "static/js/3.2777a206.chunk.js": "/integradoraLions/static/js/3.2777a206.chunk.js",
+    "static/js/3.2777a206.chunk.js.map": "/integradoraLions/static/js/3.2777a206.chunk.js.map",
+    "index.html": "/integradoraLions/index.html",
+    "service-worker.js": "/integradoraLions/service-worker.js",
+    "service-worker.js.map": "/integradoraLions/service-worker.js.map",
+    "static/css/2.0a9ec390.chunk.css.map": "/integradoraLions/static/css/2.0a9ec390.chunk.css.map",
+    "static/css/main.a617e044.chunk.css.map": "/integradoraLions/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.3349eeda.chunk.js.LICENSE.txt": "/integradoraLions/static/js/2.3349eeda.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cd36f56c.js",
+    "static/css/2.0a9ec390.chunk.css",
+    "static/js/2.3349eeda.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.e2bd59f1.chunk.js"
+  ]
+}
